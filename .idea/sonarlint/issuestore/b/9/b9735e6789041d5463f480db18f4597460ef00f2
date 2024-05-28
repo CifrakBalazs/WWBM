@@ -1,0 +1,19 @@
+
+t
+java:S1450Q"WRemove the "mainMenu" field and declare it as a local variable in the relevant methods.(Öß8ÙÏÃ1
+c
+java:S1075F"ARefactor your code to get this URI from a customizable parameter.(òÍÉ¥øÿÿÿÿ8åÏÃ1
+^
+java:S1117]"<Rename "mainMenu" which hides the field declared at line 81.(·‚Õäşÿÿÿÿ8éÏÃ1
+c
+java:S1075^"ARefactor your code to get this URI from a customizable parameter.(¤Ş¬Áüÿÿÿÿ8ìÏÃ1
+^
+java:S1117m"<Rename "mainMenu" which hides the field declared at line 81.(·‚Õäşÿÿÿÿ8ğÏÃ1
+^
+java:S1117z"<Rename "mainMenu" which hides the field declared at line 81.(·‚Õäşÿÿÿÿ8òÏÃ1
+W
+java:S3252}":Use static access with "java.awt.Window" for "getWindows".(àè…·8ôÏÃ1
+T
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8÷ÏÃ1
+G
+java:S5960"+Remove this assertion from production code.(Œ¹Ä	8ƒ‘ÏÃ1
